@@ -1,0 +1,19 @@
+{
+    "@@locale": "pl",
+    "collections": "Kolekcje",
+    "favourites": "Ulubione",
+    "remaining": "Pozostałe",
+    "seemore": "Zobacz więcej",
+    "loadAgain": "Załaduj ponownie!",
+    "back": "Wróć",
+    "cacheInfo": "Działasz na pamięci podręcznej",
+    "save": "Zapisz",
+    "searchByName": "Wyszukaj po frazie",
+    "sortByAthAsc": "Sortuj po autorach rosnąco",
+    "sortByAthDes": "Sortuj po autorach malejąco",
+    "sortByTitleAsc": "Sortuj po tytule rosnąco",
+    "sortByTitleDes": "Sortuj po tytule malejąco",
+    "notDownData": "Nie udalo się pobrać danych",
+    "read": "Czytaj",
+    "alsoCheck": "Zobacz również"
+}

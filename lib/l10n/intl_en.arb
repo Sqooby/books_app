@@ -1,0 +1,19 @@
+{
+    "@@locale": "en",
+    "collections": "Collections",
+    "favourites": "Favourites",
+    "remaining": "Remaining",
+    "seemore": "See more",
+    "loadAgain": "Load Again!",
+    "back": "Back",
+    "cacheInfo": "You operate on cache memory",
+    "save": "Save",
+    "searchByName": "Search by phrase",
+    "sortByAthAsc": "Sort by authors ascending",
+    "sortByAthDes": "Sort by authors descending",
+    "sortByTitleAsc": "Sort by titles ascending",
+    "sortByTitleDes": "Sort by titles descending",
+    "notDownData": "Failed to enter data",
+    "read": "Read",
+    "alsoCheck": "Also check"
+}
